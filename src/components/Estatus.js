@@ -1,5 +1,4 @@
 
-
 // El componente Estatus no tiene componentes hijos.
 // ESTADO: Estatus no tiene estado. (｀(エ)´)ﾉ
 // MÉTODOS: Estatus no tiene métodos.
@@ -7,6 +6,7 @@
 // Maqueta de Estatus:
 //    h1
 //    p > span     (el span mostrará la cantidad recibida por props)
+
 
 import React from 'react'
 

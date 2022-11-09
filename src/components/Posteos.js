@@ -6,6 +6,7 @@ import React from 'react'
 // MÉTODOS: Posteos no requiere de métodos.
 // PROPS: Posteos recibe el método para aumentar el estado de App y se lo pasa a cada uno de sus hijos junto con el resto de las props que necesitan.
 
+
 import posts from './data.json';
 import Post from './Post';
 

@@ -1,4 +1,5 @@
 import React from 'react'
+
 // El componente App es el padre de:
 // - Estatus ｍ（＿ ＿；；ｍ
 // - Posteos
