@@ -7,7 +7,6 @@
 //    h1
 //    p > span     (el span mostrará la cantidad recibida por props)
 
-
 import React from 'react'
 
 export default function Estatus({totalLikes}) {
