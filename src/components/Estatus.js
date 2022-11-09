@@ -1,7 +1,7 @@
 
 
 // El componente Estatus no tiene componentes hijos.
-// ESTADO: Estatus no tiene estado.
+// ESTADO: Estatus no tiene estado. (｀(エ)´)ﾉ
 // MÉTODOS: Estatus no tiene métodos.
 // PROPS: Estatus recibe de su padre la cantidad que va a mostrar dentro del span correpondiente.
 // Maqueta de Estatus:

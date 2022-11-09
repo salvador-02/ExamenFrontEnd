@@ -1,6 +1,6 @@
 import React from 'react'
 // Debemos importar el listado de objetos del archivo JSON para usarlos como array a la hora de crear cada Item.
-// El componente Posteos es el padre de:
+// El componente Posteos es el padre de: ヽ(●ﾟ´Д｀ﾟ●)ﾉﾟ
 // - Post (multiplicados por lo que haya en el listado JSON)
 // ESTADO: Posteos no necesita manejar un estado.
 // MÉTODOS: Posteos no requiere de métodos.
